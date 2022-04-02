@@ -4,6 +4,10 @@ public class MoodAnalyzerMain {
 	
 	private String message;
 	
+	public MoodAnalyzerMain() {
+		
+	}
+	
 	public MoodAnalyzerMain(String message) {
 		this.message = message;
 	}
